@@ -148,7 +148,7 @@ function getData(q_id, q_name) {
     $('#Marks').val(q_name);
     $('#btnAdd').addClass('hide');
     $('#btnEdit').removeClass('hide');
-
+    alert('hello')
 }
 
 
